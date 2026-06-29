@@ -1,0 +1,25 @@
+timestamp,document,query,num_results,answer_found
+2026-06-25T15:02:58,all,what is this document about?,0,False
+2026-06-25T15:09:42,all,What is the company's stock ticker symbol?,0,False
+2026-06-25T15:21:51,all,Who founded Nimbus Robotics and when?,2,True
+2026-06-25T15:23:35,all,How many vacation days do full-time employees get?,3,True
+2026-06-25T15:24:26,all,How many days per week can employees work remotely?,3,True
+2026-06-25T15:25:11,all,How often are performance reviews conducted?,0,False
+2026-06-25T15:26:02,all, How many days per week can employees work remotely?,3,True
+2026-06-25T15:29:03,all,How often are performance reviews conducted?,1,True
+2026-06-25T15:29:54,all,What is title?,0,False
+2026-06-25T16:30:36,all,What is Brain Tumor Classification System?,1,True
+2026-06-25T16:31:58,all,What are projects?,1,True
+2026-06-25T16:32:55,all,What are projects?,2,True
+2026-06-28T15:03:40,all,Who is the current CEO?,1,True
+2026-06-28T15:07:50,all,How often are performance reviews conducted?,1,True
+2026-06-28T15:10:06,all,What is the maximum daily meal allowance during business travel?,2,True
+2026-06-28T15:12:10,all,How many employees work in the Pune office specifically?,3,True
+2026-06-28T15:26:00,sample_company_handbook.pdf,Who founded Nimbus Robotics and when?,2,True
+2026-06-28T15:28:52,all,What is Brain Tumor Classification System?,1,True
+2026-06-28T15:31:20,all,What are projects?,2,True
+2026-06-28T15:33:35,all,How often are performance reviews conducted?,1,True
+2026-06-28T16:45:14,all,How many weeks of paid leave do primary caregivers get?,3,True
+2026-06-28T16:45:52,all,What is Brain Tumor Classification System?,1,True
+2026-06-29T11:20:36,all,How many weeks of paid leave do primary caregivers get?,3,True
+2026-06-29T11:21:18,all,What is the company's stock ticker symbol?,0,False

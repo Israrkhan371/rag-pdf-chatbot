@@ -1,0 +1,13 @@
+streamlit==1.38.0
+pinecone>=8.0.0,<10.0.0
+langchain>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-huggingface>=0.1.0
+langchain-pinecone>=0.2.0
+langchain-core>=0.3.0
+sentence-transformers==3.0.1
+pypdf==4.3.1
+python-dotenv==1.0.1
+groq==0.11.0
+tiktoken==0.7.0
+numpy==1.26.4
