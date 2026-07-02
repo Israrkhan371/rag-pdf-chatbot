@@ -27,7 +27,6 @@ rag-pdf-chatbot/
 │   └── utils.py                     # Namespace naming, query logging
 ├── logs/
 │   └── query_log.csv             # Logged queries (created at runtime)
-├── data/uploads/                # Local scratch space for uploads
 ├── requirements.txt
 ├── .env.example
 └── README.md
