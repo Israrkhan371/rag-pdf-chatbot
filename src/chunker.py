@@ -51,7 +51,7 @@ def chunk_pages(
     chunks = []
     global_index = 0
 
-    for page_data in pages:
+    for page_data in pages: 
         text = page_data["text"]
         if not text.strip():
             continue

@@ -23,3 +23,52 @@ timestamp,document,query,num_results,answer_found
 2026-06-28T16:45:52,all,What is Brain Tumor Classification System?,1,True
 2026-06-29T11:20:36,all,How many weeks of paid leave do primary caregivers get?,3,True
 2026-06-29T11:21:18,all,What is the company's stock ticker symbol?,0,False
+2026-06-29T11:37:24,all,Who founded Solace Analytics Corp and in what year?,1,True
+2026-06-29T11:39:06,all,How many people does the company employ and across how many offices?,2,True
+2026-06-29T11:40:37,all,How many paid vacation days do full-time employees accrue per year?,5,True
+2026-06-29T11:43:15,all,What is the maximum number of vacation days that can be carried over?,4,True
+2026-06-29T11:46:04,all,How many sick days are employees allowed per year?,5,True
+2026-06-29T11:46:40,all,How many days per week can employees work remotely without special approval?,5,True
+2026-06-29T11:47:24,all,"What hours must remote employees be reachable, and in what time zone?",3,True
+2026-06-29T11:47:59,all,What percentage of medical insurance premiums does the company pay for employees?,4,True
+2026-06-29T12:09:31,all,How many weeks of paid parental leave do primary caregivers receive?,5,True
+2026-06-29T12:10:18,all,Within how many days must expense reports be submitted for reimbursement?,5,True
+2026-06-29T12:11:10,all,What is the daily meal allowance during business travel?,3,True
+2026-06-29T12:12:25,all,What is the laptop budget and how often is it refreshed?,1,True
+2026-06-29T12:13:05,all,"How often are performance reviews conducted, and in what month?",3,True
+2026-06-29T12:13:40,all,What hours does office badge access work on weekdays?,5,True
+2026-06-29T12:14:52,all,"How much is the referral bonus, and when is it paid out?",4,True
+2026-06-29T12:15:40,all,What is the company's annual revenue?,4,True
+2026-06-29T12:16:27,all,Does the company offer a 401k match?,1,True
+2026-06-29T12:16:54,all,What programming languages does the engineering team use?,0,False
+2026-06-29T12:17:48,all,How many vacation days do part-time employees get?,5,True
+2026-06-29T12:18:19,all,What is the CTO's email address?,0,False
+2026-06-29T12:18:29,all,What is the CTO's email address?,0,False
+2026-06-29T12:32:09,all,What percentage of medical insurance does the company cover for dependents? ,2,True
+2026-06-29T12:32:54,all,How many weeks of parental leave do secondary caregivers get?,3,True
+2026-06-29T12:33:56,all,"Is the $1,800 laptop budget refreshed every 3 years? ",1,True
+2026-06-29T12:34:35,all,Can employees carry over vacation days without any limit? ,5,True
+2026-06-29T12:35:11,all,Is the daily meal allowance during travel $85? ,3,True
+2026-06-29T12:35:47,all,Does the office offer weekend badge access without approval?,2,True
+2026-06-29T12:36:25,all,How much is the additional monitor/equipment budget for the data engineering team?,4,True
+2026-06-29T12:37:37,all,What is the training budget rollover policy — does unused budget carry over? ,4,True
+2026-06-29T12:38:56,all,Is sick leave allowed to be carried over to the next year?,3,True
+2026-06-29T12:40:18,all,What is the late fee for a lost badge reported after 48 hours?,1,True
+2026-06-29T12:57:17,all,What is the training budget rollover policy — does unused budget carry over?,4,True
+2026-06-29T12:57:43,all,What is the training budget rollover policy — does unused budget carry over?,4,True
+2026-06-29T13:06:28,all,What percentage of medical insurance does the company cover for dependents?,2,True
+2026-06-29T14:54:40,all,What percentage of medical insurance does the company cover for dependents?,2,True
+2026-06-29T14:57:18,all,What is the training budget rollover policy — does unused budget carry over?,4,True
+2026-06-29T14:57:25,all,What is the training budget rollover policy — does unused budget carry over?,4,True
+2026-06-29T14:57:34,all,What is the training budget rollover policy — does unused budget carry over?,4,True
+2026-06-29T14:57:38,all,What is the training budget rollover policy — does unused budget carry over?,4,True
+2026-06-29T14:57:52,all,What is the training budget rollover policy — does unused budget carry over?,4,True
+2026-06-29T15:06:59,all,What is the training budget rollover policy — does unused budget carry over?,2,True
+2026-06-29T15:07:06,all,What is the training budget rollover policy — does unused budget carry over?,0,False
+2026-06-29T15:07:14,all,What is the training budget rollover policy — does unused budget carry over?,0,False
+2026-06-29T15:07:19,all,What is the training budget rollover policy — does unused budget carry over?,0,False
+2026-06-29T15:07:27,all,What is the training budget rollover policy — does unused budget carry over?,0,False
+2026-06-29T15:07:35,all,What is the training budget rollover policy — does unused budget carry over?,2,True
+2026-06-29T15:07:49,all,What is the training budget rollover policy — does unused budget carry over?,5,True
+2026-06-29T15:07:57,all,What is the training budget rollover policy — does unused budget carry over?,5,True
+2026-06-29T15:09:04,all,"Compare the vacation policy and the sick leave policy — which one allows carrying over unused days, and which one doesn't?",4,True
