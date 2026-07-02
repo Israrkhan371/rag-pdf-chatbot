@@ -72,3 +72,4 @@ timestamp,document,query,num_results,answer_found
 2026-06-29T15:07:49,all,What is the training budget rollover policy — does unused budget carry over?,5,True
 2026-06-29T15:07:57,all,What is the training budget rollover policy — does unused budget carry over?,5,True
 2026-06-29T15:09:04,all,"Compare the vacation policy and the sick leave policy — which one allows carrying over unused days, and which one doesn't?",4,True
+2026-07-02T11:24:38,all, How many days per week can employees work remotely?,5,True
